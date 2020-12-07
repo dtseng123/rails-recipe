@@ -7,11 +7,11 @@
 The reason for this application is to learn a bit about RoR.
 
  To Do:
- -[x] Basic functionality as to tutorial
- -[x] Update to React Hooks
- -[] Typescript-ify  
- -[] Add feature to add recipe images 
- -[] Dockerize
+ - [x] Basic functionality as to tutorial
+ - [x] Update to React Hooks
+ - [ ] Typescript-ify  
+ - [ ] Add feature to add recipe images 
+ - [ ] Dockerize
 
  ## Basic Start
 
